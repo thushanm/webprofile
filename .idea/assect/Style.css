@@ -1,0 +1,351 @@
+
+body{
+    padding:0;
+    margin: 0;
+    width: 100vw;
+    background-color: #1e2d3a;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+}
+body>main{
+width: 100vw;
+}
+
+#page-1{
+    position: relative;
+    height:120vh;
+}
+
+#myMap{
+    position: absolute;
+    bottom: 20%;
+}
+
+#myMap iframe {
+    border-radius: 5%;
+        border: none;
+}
+
+#myMap h3{
+    color: fuchsia;
+
+}
+body>header{
+    position: relative;
+    width: 100vw;
+    height: 7vh;
+}
+#navigation{
+    color: #0a0a0a;
+   position: absolute;
+    width: 40%;
+    right: 0;
+
+}
+#navigationOl{
+    list-style-type: none;
+    padding: 10px;
+
+  margin: 0;
+
+}
+li{
+
+    display: inline;
+    padding: 10px;
+    color: antiquewhite;
+    text-decoration: none;
+}
+#navigation ol>li:hover{
+    background-color: #5219e5;
+padding-right: 100px;
+    transition: all 2s;
+}
+
+#profilePhoto{
+    border-radius: 50%;
+
+
+}
+#mainArticle1{
+    color: red;
+    margin: auto;
+    color: white;
+    font: 700 normal 2.5em 'tahoma';
+    text-shadow: 5px 2px #222324, 2px 4px #222324, 3px 5px #222324;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 0;
+
+    animation: typing 10s steps(1055) infinite;
+}
+#mainArticle2{
+    position: absolute;
+left: 50%;
+
+
+    color: antiquewhite;
+
+
+    font: 1170 normal 22px 'tahoma';
+
+}
+
+#profilePhoto{
+border-radius: 50%;
+
+
+}  #profilePhotoDiv{
+    position: absolute;
+    left: 80%;
+    top: 20%;
+}
+   #contectWithArticle{
+       position: absolute;
+
+       left: 50%;
+   }
+
+   #location{
+       color: #7345a4;
+       position: absolute;
+       bottom: 41%;
+       right: 5%;
+
+
+
+   }
+
+   #contectWithArticleOl{
+       position: absolute;
+  bottom: 55%;
+       left: 50%;
+
+       list-style-type: none;
+       margin: 0;
+       padding: 10px;
+       display: inline;
+
+
+   }
+   #contectWithArticleOl img{
+       border-radius: 20%;
+
+   }
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(359deg);
+    }
+}
+#contectWithArticleOl img:hover{
+    background-color: #e70a0a;
+     animation: rotation 2s infinite linear;
+}
+
+@keyframes typing {
+    from { hight: 0 }
+    to { width: 100% }
+}@keyframes navigation {
+    from {transform: translateX(-400) }
+    to { transform: translateX(400) }
+}
+/* second page */
+#page-2{
+    position: relative;
+    background-color: #1e2d3a;
+    height: 120vh;
+
+}
+#projectH1{
+    position: absolute;
+left: 25%;
+    color: #f1caf3;
+}
+
+
+#flexProject{
+    position: absolute;
+   bottom: 50%;
+
+    left: 25%;
+    display: flex;
+    width: 50vw;
+    justify-content: space-evenly;
+    overflow-x: scroll;
+
+}
+#flexProject>div{
+
+width: 200%;
+    height: 200%;
+    background-color: #493333;
+    transition:all 5s;
+}
+#flexProject div p{
+    color: antiquewhite;
+}
+#flexProject>div:hover{
+    margin-inline-end: 100%;
+    transition:all 5s;
+
+}
+/* Third page */
+#page-3{
+    background-color: #1e2d3a;
+    height: 100vh;
+
+    position: relative;
+}
+
+#educationProfilePhoto{
+    position: absolute;
+    left: 70%;
+}
+#page-3 h5{
+    color: antiquewhite;
+    font-size: 130%;
+}
+#page-3 #educationArticalMain{
+    position: absolute;
+    left: 25%;
+    bottom: 30%;
+
+}
+#page-3 h1{
+    position: absolute;
+    left: 20%;
+    color: #f1caf3;
+}
+/*page 4 */
+#page-4{
+    background-color: #1e2d3a;
+    height: 100vh;
+
+    position: relative;
+
+}
+#page-4 h1{
+    color: #f1caf3;
+    position: absolute;
+    left: 60%;
+}
+#page-4 #aboutArtical {
+    color: #ffffff;
+    position: absolute;
+bottom: 45%;
+    left: 60%;
+    width: 50%;
+    font-size: 140%;
+}
+#aboutCv{
+    position: absolute;
+    left: 60%;
+    bottom: 10%;
+}
+#aboutProfilePhoto{
+    position: absolute;
+    left: 20%;
+    width: 130%;
+}
+
+/*page 5 */
+#page-5{
+
+    background-color: #1e2d3a;
+    height: 130vh;
+
+    position: relative;
+}
+#skillH1{
+    position: absolute;
+    left: 25%;
+    color: #f1caf3;
+}
+#skillOl li{
+    display: inline;
+}
+#skillOl{
+    display: flex;
+}
+#skillDiv{
+    display: flex;
+}
+#skillDiv{
+    position: absolute;
+    left: 20%;
+    bottom: 50%;
+    background-color: #493333;
+    overflow-x: scroll;
+}
+
+/*page 6 */
+
+#page-6 {
+    background-color: #1e2d3a;
+    height: 130vh;
+
+    position: relative;
+}
+#page-6 h1{
+    position: absolute;
+    color: #f1caf3;
+    top: -8%;
+}
+#page-6 p{
+    color: antiquewhite;
+    font-size: 120%;
+}
+#page-6 #joinContactForm{
+    color: #f1caf3;
+    position:absolute;
+    left: 20%;
+}
+#joinUsSocelMedia li{
+    width: 50%;
+   display:inline;
+
+
+}
+#page-6 form{
+    position: absolute;
+    left: 20%;
+    bottom: 5%;
+}
+#joinUsSocelMedia img{
+    border-radius: 50%;
+}
+#joinUsSocelMedia img:hover{
+
+    animation: rotation 2s infinite linear;
+}
+#joinUsSocelMedia p{
+    color: antiquewhite;
+}
+#join\ us\ gif{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+#join\ us\ gif2{
+    position: absolute;
+    left: 60%;
+    top: 10%;
+
+
+}
+button{
+    color: #f87a7a;
+    background-color: #bcec93;
+
+
+}
+button:hover{
+    background-color: #ea0303;
+}
+
+
