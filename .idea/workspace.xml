@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d31cc97-4832-42b1-ac9b-24ee5fecc655" name="Changes" comment="dsfg">
+      <change beforePath="$PROJECT_DIR$/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Me4wTXcNGETrbbP1GIClrIt3Pi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EduManage-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\My Project\My profile with Css" />
+      <recent name="D:\My Project\My profile with Css\.idea\assect\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/My profile with Css/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d31cc97-4832-42b1-ac9b-24ee5fecc655" name="Changes" comment="" />
+      <created>1678114957634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678114957634</updated>
+      <workItem from="1678114959202" duration="2745000" />
+      <workItem from="1678300380334" duration="10000" />
+      <workItem from="1679643815560" duration="3205000" />
+      <workItem from="1679755658766" duration="5524000" />
+      <workItem from="1679838398839" duration="64000" />
+      <workItem from="1679949239488" duration="974000" />
+      <workItem from="1679995612926" duration="2464000" />
+      <workItem from="1680109857770" duration="1716000" />
+      <workItem from="1680184807477" duration="2249000" />
+      <workItem from="1680200513478" duration="282000" />
+      <workItem from="1680200930591" duration="9813000" />
+      <workItem from="1680285466054" duration="1665000" />
+      <workItem from="1680337368514" duration="42000" />
+      <workItem from="1680343688511" duration="736000" />
+      <workItem from="1680453859064" duration="1686000" />
+      <workItem from="1680630453850" duration="31000" />
+      <workItem from="1681618341651" duration="5782000" />
+      <workItem from="1681632629824" duration="8686000" />
+      <workItem from="1681722848417" duration="3786000" />
+      <workItem from="1681829762610" duration="2154000" />
+      <workItem from="1682247380552" duration="5101000" />
+      <workItem from="1682585984261" duration="641000" />
+      <workItem from="1682976009065" duration="9012000" />
+      <workItem from="1683014384839" duration="13106000" />
+      <workItem from="1683106493970" duration="17570000" />
+      <workItem from="1683381757497" duration="4218000" />
+    </task>
+    <task id="LOCAL-00001" summary="dsfg">
+      <created>1683049908131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683049908131</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dsfg" />
+    <option name="LAST_COMMIT_MESSAGE" value="dsfg" />
+  </component>
+</project>
