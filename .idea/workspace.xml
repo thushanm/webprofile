@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d31cc97-4832-42b1-ac9b-24ee5fecc655" name="Changes" comment="dsfg">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,13 @@
       <workItem from="1682976009065" duration="9012000" />
       <workItem from="1683014384839" duration="13106000" />
       <workItem from="1683106493970" duration="17570000" />
-      <workItem from="1683381757497" duration="4218000" />
+      <workItem from="1683381757497" duration="6121000" />
+      <workItem from="1683444943385" duration="2823000" />
+      <workItem from="1683660689981" duration="50000" />
+      <workItem from="1683661583274" duration="8000" />
+      <workItem from="1683701445321" duration="18000" />
+      <workItem from="1683701857038" duration="35000" />
+      <workItem from="1683711255050" duration="365000" />
     </task>
     <task id="LOCAL-00001" summary="dsfg">
       <created>1683049908131</created>
