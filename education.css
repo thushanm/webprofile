@@ -1,4 +1,8 @@
-
+:root {
+    font-size: 2vh;
+    font-size: 1vw;
+    font-family: "Lucida Bright";
+}
 #page-3{
 
     display: flex;

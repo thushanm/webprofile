@@ -1,0 +1,38 @@
+:root {
+    font-size: 2vh;
+    font-size: 1vw;
+    font-family: "Lucida Bright";
+}
+#page-4{
+    display: flex;
+    flex-direction: column;
+    background-color: #1e2d3a;
+    height: 80vh;
+
+    position: relative;
+
+}
+#page-4 h1{
+    color: #f1caf3;
+    position: absolute;
+    left: 60%;
+    top: -18%;
+}
+#page-4 #aboutArtical {
+    color: #ffffff;
+    position: absolute;
+    bottom: 45%;
+    left: 60%;
+    width: 50%;
+    font-size: 140%;
+}
+#aboutCv{
+    position: absolute;
+    left: 60%;
+    bottom: 10%;
+}
+#aboutProfilePhoto{
+    position: absolute;
+    left: 20%;
+    width: 130%;
+}

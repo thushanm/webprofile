@@ -1,0 +1,102 @@
+:root {
+    font-size: 2vh;
+    font-size: 1vw;
+    font-family: "Lucida Bright";
+}
+#page-6 {
+    display: flex;
+    flex-direction: column;
+    background-color: #1e2d3a;
+    height: 150vh;
+
+    position: relative;
+}
+#page-6 h1{
+    padding-left: 20%;
+}
+#page-6 #joinUs{
+    padding-left: 20%;
+    color: antiquewhite;
+    font-size: 120%;
+}
+#page-6 #joinContactForm h3{
+    color: #070707;
+    position:absolute;
+    left: 20%;
+    transition: color;
+    animation: blink 1s infinite
+}
+#joinUsSocelMedia li{
+    width: 50%;
+    display:inline;
+
+
+}
+#page-6 #formDiv{
+    position: absolute;
+    bottom: 17%;
+    padding-left: 20%;
+
+    color: white;
+}
+#page-6 #formDiv input{
+    color: #0a0a0a;
+
+}
+
+#joinUsSocelMedia img{
+
+    border-radius: 50%;
+}
+#joinUsSocelMedia ol li{
+    margin-left: 20%;
+    position: absolute;
+    left: 20%;
+}
+#joinUsSocelMedia img:hover{
+    background-color: #050801;
+    box-shadow: 0 0 5px #460ae1, 0 0 20px #460ae1;
+    color: #03e9f4;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: 1s;
+    cursor: pointer;
+
+    animation: rotation 2s infinite linear;
+}
+
+#joinUsSocelMedia p{
+    color: antiquewhite;
+}
+#join\ us\ gif{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+#join\ us\ gif2{
+    position: absolute;
+    left: 34%;
+    top: -30%;
+    width: 117%;
+
+
+
+}
+button{
+    background-color: #050801;
+    box-shadow: 0 0 5px #03e9f4, 0 0 20px #03e9f4;
+    color: #03e9f4;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: 1s;
+    cursor: pointer
+
+
+}
+button:hover{
+    background-color: #ea0303;
+}

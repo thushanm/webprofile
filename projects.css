@@ -1,0 +1,32 @@
+:root {
+    font-size: 2vh;
+    font-size: 1vw;
+    font-family: "Lucida Bright";
+}
+#page-2{
+
+    position: relative;
+    background-color: #1e2d3a;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+#flexProject{
+    display: flex;
+    overflow-x: scroll;
+    width: 50%;
+    background-color: white;
+    margin-left: 20%;
+
+}
+#flexProject div{
+
+    background-color: #f0f3ec;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    padding: 0;
+    margin-left: 10%;
+}
