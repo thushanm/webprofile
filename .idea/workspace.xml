@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1d31cc97-4832-42b1-ac9b-24ee5fecc655" name="Changes" comment="dsfg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -15,9 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -109,7 +108,7 @@
       <workItem from="1683711255050" duration="1964000" />
       <workItem from="1683990857665" duration="6701000" />
       <workItem from="1684251125038" duration="3589000" />
-      <workItem from="1684318470256" duration="15005000" />
+      <workItem from="1684318470256" duration="19403000" />
     </task>
     <task id="LOCAL-00001" summary="dsfg">
       <created>1683049908131</created>

@@ -29,7 +29,12 @@ flex-direction: column;
 width: 100vw;
 }
 
-body h1{ color: #eba0ee; font-family: 'Trocchi', serif; font-size: 190%}
+body h1{
+    color: #eba0ee;
+    font-family: 'Merriweather', serif;
+    -webkit-mask-image: linear-gradient(-75deg, rgb(231, 10, 10) 30%, #d908e0 50%, rgba(162, 25, 25, 0.6) 70%);
+    -webkit-mask-size: 200%;
+    animation: shine 2s linear infinite; }
 
 
 #page-1{
@@ -137,8 +142,11 @@ padding-right: 10px;
     font-size: 3.3em;
     position: absolute;
 left: 50%;
-    text-shadow: 5px 2px #0c77e1, 2px 4px #5424d2, 3px 5px #1c75ce;
+    text-shadow: 5px 2px #52a6f6, 2px 4px #8484ff, 3px 5px #d908e0;
     font: 1170 normal 22px 'tahoma';
+    -webkit-mask-image: linear-gradient(-75deg, rgb(231, 10, 10) 30%, #d908e0 50%, rgba(162, 25, 25, 0.6) 70%);
+    -webkit-mask-size: 200%;
+    animation: shine 2s linear infinite;
 }
 #mainArticle2 #mainArticle2S1{
     display: inline-block;
@@ -202,7 +210,10 @@ font-size: 1em;
        border-radius: 20%;
 
    }
-
+@keyframes shine {
+    from { -webkit-mask-position: 150%; }
+    to { -webkit-mask-position: -50%; }
+}
 @keyframes rotation {
     from {
         transform: rotate(0deg);
@@ -272,71 +283,7 @@ font-size: 1em;
 }
 
 /* Third page */
-#page-3{
 
-    display: flex;
-    flex-direction: column;
-    background-color: #1e2d3a;
-    height: 130vh;
-
-
-    position: relative;
-}
-#educationTreeDiv{
-
-border-radius: 2%;
-    margin-right: 20%;
-    background-color: #f0f3ec;
-  justify-content: center;
-align-items: center;
-    margin-right: 2%;
-    height: 70vh;
-    width: 60vw;
-padding-left: 20%;
-    display: flex;
-    flex-direction: row;
-    overflow-x: scroll;
-
-
-}
-#educationLiner{
-    height: 2%;
-    width: 100%;
-    background-color: #460ae1;
-}
-.line{
-    width: 2%;
-    height: 100%;
-
-    background-color: #0a0a0a;
-
-}
-#educationTreeDiv div{
-
-    display: flex;
-    flex-direction: column;
-    background-color: #0a0a0a;
-    padding-left: 5%;
-    justify-content: center;
-    align-items: center;
-    margin-right: 10%;
-}
-
-#page-3 h5{
-    color: antiquewhite;
-    font-size: 130%;
-}
-#page-3 #educationArticalMain{
-    position: absolute;
-    left: 25%;
-    bottom: 30%;
-
-}
-#page-3 h1{
-    position: absolute;
-    left: 20%;
-    color: #f1caf3;
-}
 /*page 4 */
 #page-4{
     display: flex;
