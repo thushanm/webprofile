@@ -1,6 +1,11 @@
 :root{
     font-size: 2vh;
     font-size: 1vw;
+    font-family: Tahoma;
+
+}
+h1{
+    font-size: 4vh;
 }
 #logo img{
     border-radius: 50%;
@@ -56,6 +61,7 @@ body>header{
     height: 7vh;
 }
 #navigation{
+
     color: #0a0a0a;
    position: absolute;
     width: 40%;
@@ -63,6 +69,8 @@ body>header{
 
 }
 #navigationOl{
+    position: fixed;
+
     list-style-type: none;
     padding: 10px;
 
@@ -96,17 +104,29 @@ padding-right: 10px;
 
 
 }
+#mainArticle1Container{
+    width: 10vw;
+    height: 10vh;
+    text-shadow: 5px 2px #242224, 2px 4px #b6bcc2, 3px 5px #638db7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10%;
+    padding-left: 10%;
+    position: absolute;
+    bottom: 60%;
+}
 #mainArticle1{
-    color: red;
-    margin: auto;
+
     color: white;
     font: 700 normal 2.5em 'tahoma';
     text-shadow: 5px 2px #222324, 2px 4px #222324, 3px 5px #222324;
-    overflow: hidden;
-    white-space: nowrap;
-    width: 0;
 
-    animation: typing 10s steps(1055) infinite;
+
+
+}
+span{
+    color: #e0d708;
 }
 #mainArticle2{
     position: absolute;
@@ -191,6 +211,19 @@ font-size: 1em;
     from {transform: translateX(-400) }
     to { transform: translateX(400) }
 }
+@keyframes blink{
+    0% {
+        background: red;
+    }
+
+    100% {
+        background: #d908e0;
+    }
+}
+@keyframes blinking {
+    from { border-color: transparent }
+    to { border-color: green; }
+}
 /* second page */
 #page-2{
 
@@ -222,19 +255,55 @@ font-size: 1em;
 
 /* Third page */
 #page-3{
+
     display: flex;
     flex-direction: column;
     background-color: #1e2d3a;
-    height: 100vh;
+    height: 130vh;
+
 
     position: relative;
 }
+#educationTreeDiv{
 
-#educationProfilePhoto{
-    position: absolute;
-    left: 70%;
-    border-radius: 20%;
+border-radius: 2%;
+    margin-right: 20%;
+    background-color: #f0f3ec;
+  justify-content: center;
+align-items: center;
+    margin-right: 2%;
+    height: 70vh;
+    width: 60vw;
+padding-left: 20%;
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+
+
 }
+#educationLiner{
+    height: 2%;
+    width: 100%;
+    background-color: #460ae1;
+}
+.line{
+    width: 2%;
+    height: 100%;
+
+    background-color: #0a0a0a;
+
+}
+#educationTreeDiv div{
+
+    display: flex;
+    flex-direction: column;
+    background-color: #0a0a0a;
+    padding-left: 5%;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10%;
+}
+
 #page-3 h5{
     color: antiquewhite;
     font-size: 130%;
@@ -357,23 +426,24 @@ bottom: 45%;
     display: flex;
     flex-direction: column;
     background-color: #1e2d3a;
-    height: 130vh;
+    height: 150vh;
 
     position: relative;
 }
 #page-6 h1{
-    position: absolute;
-    color: #f1caf3;
-    top: -8%;
+ padding-left: 20%;
 }
-#page-6 p{
+#page-6 #joinUs{
+    padding-left: 20%;
     color: antiquewhite;
     font-size: 120%;
 }
-#page-6 #joinContactForm{
-    color: #f1caf3;
+#page-6 #joinContactForm h3{
+    color: #070707;
     position:absolute;
     left: 20%;
+    transition: color;
+    animation: blink 1s infinite
 }
 #joinUsSocelMedia li{
     width: 50%;
@@ -381,13 +451,26 @@ bottom: 45%;
 
 
 }
-#page-6 form{
+#page-6 #formDiv{
+position: absolute;
+    bottom: 17%;
+   padding-left: 20%;
+
+    color: white;
+}
+#page-6 #formDiv input{
+    color: #0a0a0a;
+
+}
+
+#joinUsSocelMedia img{
+
+    border-radius: 50%;
+}
+#joinUsSocelMedia ol li{
+   margin-left: 20%;
     position: absolute;
     left: 20%;
-    bottom: 20%;
-}
-#joinUsSocelMedia img{
-    border-radius: 50%;
 }
 #joinUsSocelMedia img:hover{
     background-color: #050801;
@@ -402,6 +485,7 @@ bottom: 45%;
 
     animation: rotation 2s infinite linear;
 }
+
 #joinUsSocelMedia p{
     color: antiquewhite;
 }

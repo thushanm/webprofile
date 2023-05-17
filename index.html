@@ -1,18 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>JTM</title>
     <link rel="stylesheet" href="Style.css">
+    
+
 </head>
 
 <body>
+
+
 <header>
     <nav id="navigation">
 
 
         <ol id="navigationOl">
-            <li> Home</li>
+            <li > home</li>
             <li> Education</li>
             <li> About Me</li>
             <li> Join Us</li>
@@ -34,12 +40,14 @@
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9437.119705877802!2d80.77566822966622!3d6.019423929465774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae14afd19b00141%3A0x4045d305f7526bba!2sTangalle!5e0!3m2!1sen!2slk!4v1678095851410!5m2!1sen!2slk"
                                 width="300" height="225"></iframe>
                     </div>
-                    <div>
-                        <h3 id="mainArticle1">Best place for all
-                            <br>your web app design and
-                            <br>custom app design needs
+                    <div id="mainArticle1Container">
+                        <h3 id="mainArticle1">I am <span class="autoType"> </span>
                         </h3>
+
                     </div>
+
+
+
                     <div>
                         <h3 id="mainArticle2">if you’re looking for a
                             <br>full stack web developer to
@@ -69,7 +77,7 @@
                          width="80%" alt="Profile Photo">
                 </div>
                 <div id="location">
-                    <h3>LOCATION:<br>
+                    <h3 onclick="click()">LOCATION:<br>
                         TANGALLE, SRI LANKA
                     </h3>
                 </div>
@@ -99,14 +107,16 @@
     <section id="page-3">
         <section>
             <div id="educationH1"><h1>EDUCATION</h1></div>
-            <div id="educationProfilePhoto"><img src="assect/img/education%202.gif" width="80%"></div>
+
             <article id="educationArticalMain">
-                <div>
-                    <h5>SCHOOL :- H/RUHUNU VIJAYABA NATIONAL COLLAGE </h5>
-                    <h5>G.C.E O/L:- C5 S3 B1 </h5>
-                    <h5>G.C.E A/L:- S3 </h5>
-                    <h5>COMPUTER SCIENCE DIPLOMA </h5>
-                    <h5>DIGITAL MARKTING DIPLOM5</h5>
+                <div id="educationTreeDiv">
+                    <div id="educationLiner">
+                  <div class="line"> <div><h5>SCHOOL :- H/RUHUNU VIJAYABA NATIONAL COLLAGE </h5></div></div>
+                    <div>     <div ><h5>G.C.E O/L:- C5 S3 B1 </h5></div></div>
+                <div class="line">    <div><h5>G.C.E A/L:- S3 </h5></div></div>
+                <div class="line">   <div><h5>COMPUTER SCIENCE DIPLOMA </h5></div></div>
+                <div class="line">  <div><h5>DIGITAL MARKTING DIPLOM5</h5></div></div>
+                </div>
                 </div>
             </article>
         </section>
@@ -199,6 +209,7 @@
                         Link In :- https://www.linkedin.com/in/thushan-madhushara-502760222/ <br></p>
                 </div>
             </article>
+            <div id="joinUsSocelMediaDiv">
             <ol id="joinUsSocelMedia">
                 <li><a href="https://github.com/thushanm"><img src="assect/img/gitHub.png" width="5%"></a></li>
                 <li><a href="tel:+94705823359"><img src="assect/img/WhatApp.jpeg" width="5%"></a></li>
@@ -207,19 +218,21 @@
                 <li><a href="https://www.linkedin.com/in/thushan-madhushara-502760222/"><img
                         src="assect/img/link%20id.png" width="5%"></a></li>
             </ol>
+            </div>
             <section>
                 <div id="joinContactForm"><h3>if you want contact me fill this form</h3></div>
-
+<div id="formDiv">
                 <form>
-                    <label><p> Name:</p></label> <input type="text" name="first_name"/> <br>
-                    <p> Last name:</p> <input type="text" name="last_name"/> <br>
-                    <p>Email:</p> <input type="text" name="email"/> <br>
-                    <p> Phone Number:</p> <input type="text" name="tel"/> <br>
-                    <p> Reasone:</p> <input type="text" name="reason"/> <br> <br>
-                    <button id="submitBtn"><a href="mailto:thushanmadhushara2@gmai.com"> Submit You Request</a></button>
+                     <input type="text" placeholder="Frist Name"/> <br> <br> <br><br>
+                   <input type="text" placeholder="Second Name"/> <br><br><br><br>
+               <input type="text" placeholder="Email"/> <br><br><br><br>
+                    <input type="text" placeholder="Phone Number"/> <br><br><br><br>
+                <input type="text" placeholder="Reasone"/> <br> <br><br> <br>
+                    <button  id="submitBtn"><a href="mailto:thushanmadhushara2@gmai.com"> Submit You Request</a></button>
                     <br>
 
                 </form>
+</div>
                 <div>
                     <div id="join us gif"><img src="assect/img/join%20us%20gif.gif" width="50%"></div>
                     <div id="join us gif2"><img src="assect/img/contactus.gif" width="50%"></div>
@@ -246,6 +259,7 @@
 
 </footer>
 
-
+<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+<script src = "Script.js"></script>
 </body>
 </html>
