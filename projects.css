@@ -4,6 +4,7 @@
     font-family: "Lucida Bright";
 }
 #page-2{
+    box-shadow: 0 0 5px #460ae1, 0 0 20px #f3f3f3;
 
     position: relative;
     background-color: #1e2d3a;

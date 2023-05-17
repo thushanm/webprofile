@@ -4,6 +4,7 @@
     font-family: "Lucida Bright";
 }
 #page-5{
+    box-shadow: 0 0 5px #460ae1, 0 0 20px #82f5e3;
     display: flex;
     flex-direction: column;
 
