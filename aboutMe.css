@@ -25,7 +25,7 @@
     border-radius: 5%;
 }*/
 #page-4 h1{
-    color: #f1caf3;
+    color: #ffffff;
     position: absolute;
     left: 60%;
     top: -18%;
@@ -55,6 +55,7 @@
 #page-4>section{
     display: flex;
     align-items: center;
+
 }
 #page-4 article{
     display: flex;
@@ -65,7 +66,7 @@
 }
 #page-4 article>:first-child{
     width: 50%;
-    height: 70%;
+    height: 70vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -75,30 +76,25 @@
 
 }
 #page-4 article>:last-child{
-    height: 70%;
+    height: 130vh;
     width: 40%;
     display: flex;
-    background: wheat;
+    background: #f6f5f2;
     justify-content: center;
     align-items: center;
     overflow-y: scroll;
     flex-wrap: wrap;
+    border-radius: 3%;
 }
 #page-4 article>:last-child>:nth-child(1){
     width: 100%;
     height: 100%;
-    background-color: #dec5c5;
+    background-color: #ffffff;
     font-size: 2.5em;
 
 
 }
-#page-4 article>:last-child>:nth-child(2){
-    width: 100%;
-    height: 50%;
-    display: flex;
-    justify-content: center;
-    background-color: blue;
-}
+
 #page-4 article>:last-child>:nth-child(2)>a{
     width: 100%;
     height: 100%;
@@ -107,4 +103,28 @@
 }
 #page-4 article>:last-child>:nth-child(2) img{
     width: 40%;
+}
+#abouDiv{
+    max-height: 300px;
+    padding: 1rem;
+    overflow-y: auto;
+    direction: ltr;
+}
+
+/* width */
+#abouDiv::-webkit-scrollbar {
+    width: 25px;
+}
+
+/* Track */
+#abouDiv::-webkit-scrollbar-track {
+    box-shadow: inset 0 2px 6px #e70a0a;
+    border-radius: 10px;
+}
+
+/* Handle */
+#abouDiv::-webkit-scrollbar-thumb {
+    background-image: linear-gradient(180deg, #070707 0%, #EEC0C6 99%);
+    border-radius: 10px;
+    height:50px;
 }

@@ -8,7 +8,7 @@
     display: flex;
     flex-direction: column;
     background-color: #1e2d3a;
-    height: 130vh;
+    height: 90vh;
 
 
     position: relative;
@@ -151,4 +151,29 @@ height: 100vh;
     .right {
         left: 0%;
     }
+
+}
+.educationDiv{
+    max-height: 300px;
+    padding: 1rem;
+    overflow-y: auto;
+    direction: ltr;
+}
+
+/* width */
+.educationDiv::-webkit-scrollbar {
+    width: 25px;
+}
+
+/* Track */
+.educationDiv::-webkit-scrollbar-track {
+    box-shadow: inset 0 2px 6px grey;
+    border-radius: 10px;
+}
+
+/* Handle */
+.educationDiv::-webkit-scrollbar-thumb {
+    background-image: linear-gradient(180deg,#7EE8FA 0%, #EEC0C6 99%);
+    border-radius: 10px;
+    height:100px;
 }
