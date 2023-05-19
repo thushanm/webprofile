@@ -8,7 +8,7 @@
     display: flex;
     flex-direction: column;
     background-color: #070707;
-    height: 150vh;
+    height: 100vh;
 
     position: relative;
 }
@@ -23,7 +23,9 @@
 #page-6 #joinContactForm h3{
     color: #070707;
     position:absolute;
-    left: 20%;
+   right: 0;
+    top: 10%;
+    left: 80%;
     transition: color;
     animation: blink 1s infinite
 }
@@ -35,8 +37,8 @@
 }
 #page-6 #formDiv{
     position: absolute;
-    bottom: 17%;
-    padding-left: 20%;
+   left: 80%;
+    bottom: 20%;
 
     color: white;
 }
