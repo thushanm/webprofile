@@ -17,7 +17,7 @@
 
 </head>
 
-<body>
+<body  onload="hideLoader()">
 
 
 <section id="mainBody">
@@ -39,6 +39,10 @@
     <div id="mainDiv">
     <main>
 
+        <div class="page-loader">
+            <div class="spinner"></div>
+            <div class="txt"><h1><span class="lType"></span></h1></div>
+        </div>
 
         <section id="page-1">
             <section>
@@ -321,16 +325,9 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script><!--page animation!-->
     <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script><!--Auto Typing!-->
     <script src="Script.js"></script>
-<script>
-    var loader = document.querySelector(".loader")
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
 
-    window.addEventListener("load", vanish);
 
-    function vanish() {
-        loader.classList.add("disppear");
-    }
-
-</script>
 </section>
 
 </body>

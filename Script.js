@@ -23,3 +23,20 @@ anime.timeline({loop: true})
     easing: "easeOutExpo",
     delay: 1000
 });
+function hideLoader(){
+    document.body.style['overflow-y'] = 'hidden';
+    document.body.style.overflowY = "hidden";
+
+    $('.page-loader').delay(6000).fadeOut();
+
+    let typed=new Typed(".lType",{
+
+        strings:["J T M"],
+        typeSpeed:150,
+        backSpeed:150,
+        loop:true
+
+    });
+
+}
+
