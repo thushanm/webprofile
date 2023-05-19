@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1d31cc97-4832-42b1-ac9b-24ee5fecc655" name="Changes" comment="dsfg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fristpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/fristpage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/projects.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +46,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EduManage-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\My Project\My profile with Css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\My Project\My profile with Css" />
       <recent name="D:\My Project\My profile with Css\.idea\assect\img" />
@@ -111,7 +114,9 @@
       <workItem from="1684251125038" duration="3589000" />
       <workItem from="1684318470256" duration="25159000" />
       <workItem from="1684380337494" duration="7622000" />
-      <workItem from="1684410282351" duration="8374000" />
+      <workItem from="1684410282351" duration="8764000" />
+      <workItem from="1684506185180" duration="1430000" />
+      <workItem from="1684516548414" duration="3885000" />
     </task>
     <task id="LOCAL-00001" summary="dsfg">
       <created>1683049908131</created>

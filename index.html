@@ -13,10 +13,12 @@
     <link rel="stylesheet" href="skill.css">
     <link rel="stylesheet" href="joinForm.css">
     <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="loadingpage.css">
 
 </head>
 
 <body>
+
 
 <section id="mainBody">
     <header>
@@ -24,11 +26,11 @@
 
 
             <ol id="navigationOl">
-                <li>home </li>
-                <li>  Education </li>
-                <li>  About Me </li>
-                <li>  Join Us </li>
-                <li>  Gallery</li>
+                <li>HOME </li>
+                <li> EDUCATION </li>
+                <li>  ABOUT ME </li>
+                <li>  JOIN US </li>
+                <li>  GALLARY</li>
             </ol>
 
         </nav>
@@ -318,6 +320,16 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script><!--page animation!-->
     <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script><!--Auto Typing!-->
     <script src="Script.js"></script>
+<script>
+    var loader = document.querySelector(".loader")
+
+    window.addEventListener("load", vanish);
+
+    function vanish() {
+        loader.classList.add("disppear");
+    }
+
+</script>
 </section>
 </body>
 </html>
