@@ -4,8 +4,6 @@
     <list default="true" id="1d31cc97-4832-42b1-ac9b-24ee5fecc655" name="Changes" comment="dsfg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loadingpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/loadingpage.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +116,8 @@
       <workItem from="1684506185180" duration="1430000" />
       <workItem from="1684516548414" duration="15103000" />
       <workItem from="1684562537989" duration="80000" />
-      <workItem from="1684569189594" duration="641000" />
+      <workItem from="1684569189594" duration="927000" />
+      <workItem from="1684570953287" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="dsfg">
       <created>1683049908131</created>

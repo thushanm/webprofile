@@ -2,7 +2,7 @@ body{
 
 }
 .page-loader {
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     position: absolute;
     background: #272727;
@@ -17,7 +17,7 @@ body{
     top: 40%;
     position: relative;
     text-transform: uppercase;
-    letter-spacing: 9rem;
+    letter-spacing: 2rem;
     font-size: 6em;
     font-weight: bold;
     line-height: 1.5;

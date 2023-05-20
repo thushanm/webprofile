@@ -30,7 +30,7 @@ function hideLoader(){
 
     let typed=new Typed(".lType",{
 
-        strings:["J T M"],
+        strings:["J T M Loading..."],
         typeSpeed:150,
         backSpeed:150,
         loop:true
