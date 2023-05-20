@@ -23,20 +23,24 @@ anime.timeline({loop: true})
     easing: "easeOutExpo",
     delay: 1000
 });
-function hideLoader(){
+
+    function hideLoader() {
+        $('.page-loader').delay(6000).fadeOut(1000);
+        let typed = new Typed(".lType", {
+
+            strings: ["J T M Loading..."],
+            typeSpeed: 150,
+            backSpeed: 150,
+            loop: true
+
+        })
+    }
 
 
-    $('.page-loader').delay(6000).fadeOut();
 
-    let typed=new Typed(".lType",{
 
-        strings:["J T M Loading..."],
-        typeSpeed:150,
-        backSpeed:150,
-        loop:true
 
-    });
 
-}
+
 
 ////////////////////////////////////////clock/////////////////////////////////////////////
