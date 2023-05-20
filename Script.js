@@ -24,8 +24,7 @@ anime.timeline({loop: true})
     delay: 1000
 });
 function hideLoader(){
-    document.body.style['overflow-y'] = 'hidden';
-    document.body.style.overflowY = "hidden";
+
 
     $('.page-loader').delay(6000).fadeOut();
 
@@ -40,3 +39,4 @@ function hideLoader(){
 
 }
 
+////////////////////////////////////////clock/////////////////////////////////////////////
