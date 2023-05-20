@@ -23,7 +23,7 @@ h1{
 
 }
 #page-1{
-    height: 100vh;
+    height: 80vh;
 }
 
 body{
@@ -33,12 +33,12 @@ body{
     background-color: #070707;
     background-repeat: no-repeat;
     background-size: cover;
-    overflow-x: hidden;
+    overflow-x: scroll;
 }
 body>main{
     display: flex;
 flex-direction: column;
-width: 100vw;
+width: 50vw;
 }
 body h3{
     color:white;
@@ -63,14 +63,14 @@ body h1{
 }
 body>header{
     position: relative;
-    width: 100vw;
+    width: 5vw;
     height: 7vh;
 }
 #navigation{
 
     color: #0a0a0a;
    position: absolute;
-    width: 40%;
+    width: 50vw;
     right: 0;
 
 }
