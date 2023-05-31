@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d31cc97-4832-42b1-ac9b-24ee5fecc655" name="Changes" comment="dsfg">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fristpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/fristpage.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +124,7 @@
       <workItem from="1685157852451" duration="573000" />
       <workItem from="1685159681700" duration="2018000" />
       <workItem from="1685274858648" duration="1620000" />
-      <workItem from="1685528343259" duration="14798000" />
+      <workItem from="1685528343259" duration="15453000" />
     </task>
     <task id="LOCAL-00001" summary="dsfg">
       <created>1683049908131</created>
