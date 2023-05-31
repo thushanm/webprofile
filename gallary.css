@@ -1,0 +1,30 @@
+#page-7{
+    height: 100vh;
+    width: 100vw;
+    background-color: #070707;
+    position: ;
+}
+#gallary {
+    background-color: white;
+height: 50%;
+    width: 50%;
+  display: inline;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#gallary .gallaryDiv img{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+
+    width: 100%;
+    height: auto;
+
+}
+#gallary .gallaryDiv{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}

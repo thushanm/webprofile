@@ -1,4 +1,4 @@
-#page-7{
+#page-8{
     display: flex;
     flex-direction: column;
     height: 20vh;
@@ -6,7 +6,7 @@
     background-color: #737272;
     position: relative;
 }
-#page-7 h4{
+#page-8 h4{
     position: absolute;
     left: 90%;
     bottom: 30%;
