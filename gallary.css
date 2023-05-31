@@ -1,6 +1,6 @@
 #page-7{
-    height: 100vh;
-    width: 100vw;
+    height: 80vh;
+
     background-color: #070707;
     position:relative;
 }
@@ -29,13 +29,17 @@ height: 80%;
 }
 #gallary .gallaryDiv{
     margin: 5px;
-    border: 5px solid #460ae1;
+    border: 1px solid #ffffff;
     float: left;
     width: 180px;
     grid-template-columns: auto;
     grid-template-rows: auto;
 
 }
+#gallary .gallaryDiv:hover {
+    border: 5px solid #460ae1;
+}
+
 #gallary::-webkit-scrollbar {
     width: 20px;
 }

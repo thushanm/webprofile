@@ -16,14 +16,5 @@
 #myMap{
     position: absolute;
     bottom: 20%;
-
-}
-#myMap iframe {
-    border-radius: 5%;
-    border: none;
-}
-
-#myMap h3{
-    color: #f1ecf1;
-
+position: fixed;
 }

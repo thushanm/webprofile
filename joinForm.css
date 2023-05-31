@@ -1,3 +1,4 @@
+
 :root {
     font-size: 2vh;
     font-size: 1vw;
@@ -20,68 +21,53 @@
     color: antiquewhite;
     font-size: 120%;
 }
-#page-6  h3{
-    color: #070707;
-    position:absolute;
-   right: 0;
-    top: 10%;
-    left: 80%;
-    bottom: 20%;
-    transition: color;
-    animation: blink 1s infinite
-}
-#joinUsSocelMedia li{
-    width: 50%;
-    display:inline;
 
-
-}
 #page-6 #formDiv{
     display: flex;
     flex-direction: row;
     position: absolute;
-   left: 43%;
-    bottom: 13%;
+   left: 70%;
+    bottom: 2%;
 right: 0;
-   background-color: white;
-height: 50%;
-    width: 50%;
+   background-color: #341313;
+height: 60%;
+    width: 25%;
     justify-content: center;
-
+border-radius: 20%;
 
 }
 #page-6 #formDiv form {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 0;
     color: #0a0a0a;
     bottom: 23%;
 
 }
 
+
 #joinUsSocelMedia img{
+
 
     border-radius: 50%;
 }
-#joinUsSocelMedia ol li{
-    margin-left: 20%;
-    position: absolute;
-    left: 20%;
-}
+
 #joinUsSocelMedia img:hover{
+
     background-color: #050801;
     box-shadow: 0 0 5px #460ae1, 0 0 20px #460ae1;
     color: #03e9f4;
-    font-weight: bold;
-    border: none;
     border-radius: 5px;
-    overflow: hidden;
     transition: 1s;
     cursor: pointer;
 
     animation: rotation 2s infinite linear;
 }
 
-#joinUsSocelMedia p{
-    color: antiquewhite;
-}
+
 #join\ us\ gif{
     position: absolute;
     left: 0%;

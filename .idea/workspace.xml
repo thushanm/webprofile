@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d31cc97-4832-42b1-ac9b-24ee5fecc655" name="Changes" comment="dsfg">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fristpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/fristpage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallary.css" beforeDir="false" afterPath="$PROJECT_DIR$/gallary.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joinForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/joinForm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loadingpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/loadingpage.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +130,7 @@
       <workItem from="1685157852451" duration="573000" />
       <workItem from="1685159681700" duration="2018000" />
       <workItem from="1685274858648" duration="1620000" />
-      <workItem from="1685528343259" duration="5975000" />
+      <workItem from="1685528343259" duration="9609000" />
     </task>
     <task id="LOCAL-00001" summary="dsfg">
       <created>1683049908131</created>
