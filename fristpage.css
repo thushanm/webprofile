@@ -270,7 +270,8 @@ width: 10%;
 #contectWithArticleOl{
     top: 30%;
 }
- #formDiv {height: 50%;width: 100%}
+
+    #formDiv {top: 28%;height: 32vh;width: 50vw}
     #page-6 #formDiv form input{width: 100%}
     #page-6 #formDiv form h3{width: 100% }
 
