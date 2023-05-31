@@ -23,18 +23,12 @@
 }
 
 #page-6 #formDiv{
-    display: flex;
-    flex-direction: row;
     position: absolute;
-   left: 70%;
     bottom: 2%;
 right: 0;
-left: 32%;
-
-   background-color: #341313;
-height: 60vh;
-    width: 25vw;
-    justify-content: center;
+   background-color: #0a0a0a;
+height: 60%;
+    width: 25%;
 border-radius: 20%;
 
 }
