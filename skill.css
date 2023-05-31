@@ -11,6 +11,7 @@
     background-color: #070707;
     height: 130vh;
 
+
     position: relative;
 }
 #skillH1{
@@ -32,7 +33,7 @@
     align-content: center;
 }
 #page-5>section{
-    width: 80vw;
+    width: 60vw;
     height: 50vh;
     justify-content: center;
     align-self: center;
