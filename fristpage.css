@@ -118,7 +118,7 @@ padding-right: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 50%;
+
 
 
 
@@ -145,7 +145,8 @@ padding-right: 10px;
 
 }
 #mainArticle1 span{
-    color: #0ce7fa;
+    color: #05efce;
+    text-shadow: 0 0 20px rgba(10, 175, 230, 1), 0 0 20px rgba(10, 175, 230, 0);
 
 }
 #mainArticle2 {
@@ -183,19 +184,6 @@ left: 50%;
        left: 50%;
    }
 
-   #location{
-
-       color: #7345a4;
-       position: absolute;
-
-  bottom: 0;
-       right: 0;
-       top: 350px;
-
-font-size: 1em;
-
-
-   }
 
    #contectWithArticleOl{
        width: 40vw;
@@ -282,6 +270,7 @@ width: 10%;
 #contectWithArticleOl{
     top: 30%;
 }
+#formDiv{left: 30%}
    #page-2 #profilePhotoDiv img{width: 50%}
    ol{width: 100%;}
    li{width: 100%;}

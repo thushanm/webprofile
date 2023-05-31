@@ -20,12 +20,13 @@
     color: antiquewhite;
     font-size: 120%;
 }
-#page-6 #joinContactForm h3{
+#page-6  h3{
     color: #070707;
     position:absolute;
    right: 0;
     top: 10%;
     left: 80%;
+    bottom: 20%;
     transition: color;
     animation: blink 1s infinite
 }
@@ -36,14 +37,22 @@
 
 }
 #page-6 #formDiv{
+    display: flex;
+    flex-direction: row;
     position: absolute;
-   left: 80%;
-    bottom: 20%;
+   left: 43%;
+    bottom: 13%;
+right: 0;
+   background-color: white;
+height: 50%;
+    width: 50%;
+    justify-content: center;
 
-    color: white;
+
 }
-#page-6 #formDiv input{
+#page-6 #formDiv form {
     color: #0a0a0a;
+    bottom: 23%;
 
 }
 
@@ -75,8 +84,9 @@
 }
 #join\ us\ gif{
     position: absolute;
-    left: 50%;
-    top: 50%;
+    left: 0%;
+   width: 5%;
+    right: 0;
 }
 #join\ us\ gif2{
     position: absolute;

@@ -1,58 +1,58 @@
 body{
 
 }
-.page-loader {
-    width: 100vw;
-    height: 150vh;
-    position: absolute;
-    background: #272727;
-    z-index: 1000;
-    position: fixed;
-    z-index: 1000;
-}
-.txt{
-    color: #ab8aff;
-    box-shadow: 0 0 5px #460ae1, 0 0 20px #20c7f5;
-    text-align: center;
-    top: 40%;
-    position: relative;
-    text-transform: uppercase;
-    letter-spacing: 2rem;
-    font-size: 6em;
-    font-weight: bold;
-    line-height: 1.5;
-}
+/*.page-loader {*/
+/*    width: 100vw;*/
+/*    height: 150vh;*/
+/*    position: absolute;*/
+/*    background: #272727;*/
+/*    z-index: 1000;*/
+/*    position: fixed;*/
+/*    z-index: 1000;*/
+/*}*/
+/*.txt{*/
+/*    color: #ab8aff;*/
+/*    box-shadow: 0 0 5px #460ae1, 0 0 20px #20c7f5;*/
+/*    text-align: center;*/
+/*    top: 40%;*/
+/*    position: relative;*/
+/*    text-transform: uppercase;*/
+/*    letter-spacing: 2rem;*/
+/*    font-size: 6em;*/
+/*    font-weight: bold;*/
+/*    line-height: 1.5;*/
+/*}*/
 
 
-/* Spinner animation */
-.spinner {
-    position: relative;
-    top: 35%;
-    width: 160px;
-    height: 160px;
-    margin: 0 auto;
-    background-color: #d908e0;
-    box-shadow: 0 0 5px #460ae1, 0 0 20px #20c7f5;
-    border-radius: 100%;
-    -webkit-animation: sk-scaleout 10s infinite;
-    animation: sk-scaleout 10s infinite;
-}
+/*!* Spinner animation *!*/
+/*.spinner {*/
+/*    position: relative;*/
+/*    top: 35%;*/
+/*    width: 160px;*/
+/*    height: 160px;*/
+/*    margin: 0 auto;*/
+/*    background-color: #d908e0;*/
+/*    box-shadow: 0 0 5px #460ae1, 0 0 20px #20c7f5;*/
+/*    border-radius: 100%;*/
+/*    -webkit-animation: sk-scaleout 10s infinite;*/
+/*    animation: sk-scaleout 10s infinite;*/
+/*}*/
 
-@-webkit-keyframes sk-scaleout {
-    0% { -webkit-transform: scale(0) }
-    100% {
-        -webkit-transform: scale(1.0);
-        opacity: 0;
-    }
-}
+/*@-webkit-keyframes sk-scaleout {*/
+/*    0% { -webkit-transform: scale(0) }*/
+/*    100% {*/
+/*        -webkit-transform: scale(1.0);*/
+/*        opacity: 0;*/
+/*    }*/
+/*}*/
 
-@keyframes sk-scaleout {
-    0% {
-        -webkit-transform: scale(0);
-        transform: scale(0);
-    } 100% {
-          -webkit-transform: scale(1.0);
-          transform: scale(1.0);
-          opacity: 0;
-      }
-}
+/*@keyframes sk-scaleout {*/
+/*    0% {*/
+/*        -webkit-transform: scale(0);*/
+/*        transform: scale(0);*/
+/*    } 100% {*/
+/*          -webkit-transform: scale(1.0);*/
+/*          transform: scale(1.0);*/
+/*          opacity: 0;*/
+/*      }*/
+/*}*/
