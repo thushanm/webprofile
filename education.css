@@ -9,6 +9,7 @@
     flex-direction: column;
     background-color: #070707;
     width: 100vw;
+    height: 100vh;
 
 
     position: relative;
@@ -26,11 +27,9 @@
 
 .educationDiv{
 
-    justify-content: center;
-    align-items: center;
-height: 100vh;
+height: 90%;
     width: 90vw;
-    overflow-x: scroll;
+
     padding-left: 5%;
 
 }
