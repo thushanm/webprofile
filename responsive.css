@@ -1,0 +1,25 @@
+@media screen and (max-width:1000px){
+    body{width: 100%;overflow-x:hidden;}
+    #navigation {right: 0;left: 20%}
+    article{width: 100%;}
+    p{font-size: 2em}
+
+    #logo{width: 120%}
+    #profilePhotoDiv img{width: 80%}
+    #page-1{width: 100%}
+    #location{top: 46%}
+
+
+    #contectWithArticleOl{
+        top: 30%;
+    }
+    #gallary{left: 70%}
+    #formDiv {left: 205px;right: 0;height: 100%}
+    #page-6 #formDiv form input{width: 100%}
+    #page-6 #formDiv form h3{width: 100% }
+
+    #page-2 #profilePhotoDiv img{width: 50%}
+    ol{width: 100%;}
+    li{width: 100%;}
+    #page-1{height: 60vh}
+}

@@ -4,12 +4,16 @@
     font-family: "Lucida Bright";
 }
 #page-5{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
     box-shadow: 0 0 5px #460ae1, 0 0 20px #82f5e3;
     display: flex;
     flex-direction: column;
 
     background-color: #070707;
     height: 130vh;
+    width: 100vw;
 
 
     position: relative;
@@ -27,11 +31,7 @@
 #skillDiv h3{
     color: white;
 }
-#page-5{
-    display: flex;
-    flex-direction: column;
-    align-content: center;
-}
+
 #page-5>section{
     width: 60vw;
     height: 50vh;
@@ -51,6 +51,7 @@
     display: flex;
     flex-direction: row;
     height: 100%;
+
 }
 #skillDiv>div{
     width:15vw;

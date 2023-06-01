@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="joinForm.css">
     <link rel="stylesheet" href="footer.css">
     <link rel="stylesheet" href="loadingpage.css">
-    <link rel="stylesheet" href="clock.css">
+    <link rel="stylesheet" href="responsive.css">
     <link rel="stylesheet" href="gallary.css">
 
 </head>
@@ -22,10 +22,10 @@
 <body  onload="hideLoader()">
 
 <section id="mainBody">
-   <div class="page-loader">
-        <div class="spinner"></div>
-        <div class="txt"><h1><span class="lType"></span></h1></div>
-    </div>
+<!--   <div class="page-loader">-->
+<!--        <div class="spinner"></div>-->
+<!--        <div class="txt"><h1><span class="lType"></span></h1></div>-->
+<!--    </div>-->
 
     <header>
 
@@ -47,7 +47,8 @@
     <main>
 
 
-        <div id="MyClockDisplay" class="clock" onload="showTime()"></div>
+
+
 
         <section id="page-1">
             <section>
@@ -344,37 +345,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
 
 
-<script>
-    setInterval(showTime, 1000);
-    function showTime() {
-    let time = new Date();
-    let hour = time.getHours();
-    let min = time.getMinutes();
-    let sec = time.getSeconds();
-    am_pm = "AM";
 
-    if (hour > 12) {
-    hour -= 12;
-    am_pm = "PM";
-    }
-    if (hour == 0) {
-    hr = 12;
-    am_pm = "AM";
-    }
-
-    hour = hour < 10 ? "0" + hour : hour;
-    min = min < 10 ? "0" + min : min;
-    sec = sec < 10 ? "0" + sec : sec;
-
-    let currentTime = hour + ":"
-    + min + ":" + sec + am_pm;
-
-    document.getElementById("clock")
-    .innerHTML = currentTime;
-    }
-
-    showTime();
-</script>
 </section>
 
 </body>

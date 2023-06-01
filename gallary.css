@@ -1,8 +1,9 @@
 #page-7{
     height: 80vh;
-
+    width: 100vw;
     background-color: #070707;
     position:relative;
+    box-shadow: 0 0 5px #460ae1, 0 0 20px #f3f3f3;
 }
 #gallary {
     position: absolute;
