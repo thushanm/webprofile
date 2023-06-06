@@ -22,11 +22,21 @@
     height: 74%;
     background-color: #070707;
     margin-left: 20%;
+    position: absolute;
+    top: 21%;
 
 }
 #flexProject div h1{
     color: #0a0a0a;
 
+
+}
+#projectH1 h1{
+    position: absolute;
+    left: 50%;
+
+
+    margin: auto;
 }
 #flexProject div{
 

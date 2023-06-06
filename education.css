@@ -14,6 +14,13 @@
 
     position: relative;
 }
+#educationH1 h1{
+    position: absolute;
+    left: 50%;
+    bottom: 89%;
+
+    margin: auto;
+}
 *{
     box-sizing: border-box;
 
@@ -26,8 +33,12 @@
 }
 
 .educationDiv{
+    position: absolute;
+  top: 24%;
+    bottom: 0;
 
-height: 90%;
+
+height: 90vw;
     width: 90vw;
 
     padding-left: 5%;
