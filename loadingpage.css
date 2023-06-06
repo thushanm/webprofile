@@ -2,7 +2,7 @@
 
 .page-loader {
     width: 100vw;
-    height: 150vh;
+    height: 200vh;
     position: absolute;
     background: #272727;
     z-index: 1000;

@@ -4,7 +4,7 @@
     font-family: "Lucida Bright";
 }
 #page-2{
-    box-shadow: 0 0 5px #460ae1, 0 0 20px #f3f3f3;
+
 
     position: relative;
     background-color: #070707;
@@ -12,29 +12,38 @@
     display: flex;
     flex-direction: column;
     align-content: center;
+    height: 50vh;
     width: 100vw;
 }
 #flexProject{
     display: flex;
     overflow-x: scroll;
-    width: 50%;
+    width: 71%;
+    height: 74%;
     background-color: #070707;
     margin-left: 20%;
 
 }
+#flexProject div h1{
+    color: #0a0a0a;
+
+}
 #flexProject div{
 
-    background-color: #070707;
+    background: linear-gradient(to bottom, #33ccff 0%, #460ae1 100%);
     flex-direction: row;
     justify-content: center;
     align-items: center;
-
-    padding: 0;
+height: 80%;
+    width: 40%;
+    border-radius: 20%;
+    padding: 2%;
     margin-left: 10%;
 }
-#flexProject div p{
-    background-color: white;
+#flexProject div:hover{
+    background: linear-gradient(to bottom, #33ccff 0%, #fa0707 100%);
 }
+
 #flexProject::-webkit-scrollbar {
     width: 10px;
 }
