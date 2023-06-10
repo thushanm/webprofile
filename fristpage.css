@@ -1,4 +1,6 @@
-
+body {
+    overflow-x: hidden;
+}
 :root {
     font-size: 2vh;
     font-size: 1vw;

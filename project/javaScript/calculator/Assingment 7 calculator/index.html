@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>JTM CALCULATOR</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+<main>
+    <table id="calculator">
+        <thead>
+        <tr>
+            <td colspan="4" ><input type="text" id="screen" placeholder="0.0"></td>
+            <td><input type="button"value="C" id="btnClear"/></td>
+        </tr>
+        </thead>
+        <tbody id="tbody">
+        <tr>
+            <td><input class="number" type="button"value="1"onclick="cler()"/></td>
+            <td><input class="number" type="button"value="2"onclick="cler()"/></td>
+            <td><input class="number" type="button"value="3"onclick="cler()"/></td>
+            <td><input class="char" type="button"value="/"onclick="cler()"/></td>
+        </tr>
+        <tr>
+            <td><input class="number" type="button"value="4"onclick="cler()"/></td>
+            <td><input class="number" type="button"value="5"onclick="cler()"/></td>
+            <td><input class="number" type="button"value="6"onclick="cler()"/></td>
+            <td><input class="char" type="button"value="*"onclick="cler()"/></td>
+        </tr>
+        <tr>
+            <td><input class="number" type="button"value="7"onclick="cler()"/></td>
+            <td><input class="number" type="button"value="8"onclick="cler()"/></td>
+            <td><input class="number" type="button"value="9"onclick="cler()"/></td>
+            <td><input class="char" type="button"value="-"onclick="cler()"/></td>
+        </tr>
+        <tr>
+            <td><input class="char" type="button"value="+"onclick="cler()"/></td>
+            <td><input class="number" type="button"value="0"onclick="cler()"/></td>
+            <td><input class="number" type="button"value="."onclick="cler()"/></td>
+            <td><input  type="button"value="=" id="btnEq"/></td>
+        </tr>
+        </tbody>
+
+        
+    </table>
+</main>
+<script src="assets/jQuary.js"></script>
+<script src="assets/js/cls.js"></script>
+
+</body>
+</html>

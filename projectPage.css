@@ -1,0 +1,48 @@
+section{
+    height: 200vh;
+    width: 200vw;
+    display: flex;
+
+
+
+
+}
+
+div{
+
+}
+.projectDivss{
+
+    border-radius: 50%;
+
+    height: 30%;
+    width: 30%;
+    background-color: #f8f8f8;
+    margin: 40px;
+}
+.projectDivss img{
+    width: 80%;
+    height: 80%;
+    border-radius: 20%;
+
+
+
+
+}
+button{
+
+    background-color: #fa0707;
+    box-shadow: 0 0 5px #fa0707, 0 0 20px #e70a0a;
+    color: #e70a0a;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: 1s;
+    cursor: pointer
+
+}
+
+
+
+
