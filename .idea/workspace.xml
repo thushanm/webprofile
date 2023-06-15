@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="1d31cc97-4832-42b1-ac9b-24ee5fecc655" name="Changes" comment="dsfg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/indexCss.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexCss.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/joinForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/joinForm.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projectJavaSrcipt.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectJavaSrcipt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projectPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/projectPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/projects.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/responsive.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +67,7 @@
       <recent name="D:\My Project\My profile with Css\.idea\assect\img" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.indexCss.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="indexCss.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/My profile with Css/indexCss.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -77,9 +79,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.indexCss.html" />
         <item itemvalue="JavaScript Debug.projectJavaSrcipt.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +153,7 @@
       <workItem from="1686381010018" duration="702000" />
       <workItem from="1686422501088" duration="78000" />
       <workItem from="1686760395549" duration="2510000" />
-      <workItem from="1686806617442" duration="1333000" />
+      <workItem from="1686806617442" duration="8927000" />
     </task>
     <task id="LOCAL-00001" summary="dsfg">
       <created>1683049908131</created>
