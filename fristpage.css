@@ -91,6 +91,7 @@ z-index: 1000;
 
 }
 #navigationOl a{
+    outline: #03e9f4;
     text-shadow: #ba0ace;
 
     color: #ea0303;
