@@ -1,7 +1,35 @@
+body{
+    overflow-x: hidden;
+}
 section{
-    height: 200vh;
-    width: 200vw;
+    height: 100vh;
+    width: 100vw;
+    background-color: #0a0a0a;
+    position: relative;
+
+
+
+
+}
+h1{
+    padding: 10%;
+    color: white;
     display: flex;
+    text-align: center;
+}
+#cssSection{
+
+    position: absolute;
+    top:0;
+    right: 0;
+    left: 0;
+  bottom: 0;
+    margin: auto;
+    background-color: #070707;
+    height: 60%;
+    width: 50%;
+display: flex;
+    overflow-x: scroll;
 
 
 
@@ -13,23 +41,32 @@ div{
 }
 .projectDivss{
 
-    border-radius: 50%;
 
-    height: 30%;
-    width: 30%;
-    background-color: #f8f8f8;
-    margin: 40px;
+
+background-color: #460ae1;
+
+    background: linear-gradient(to bottom, #33ccff 0%, #460ae1 100%);
+
+border-radius: 20%;
+    margin: 10px;
+    max-width: 25vw;
+    max-height: 50vh;
+    min-width: 25vw;
+    min-height: 50vh;
 }
 .projectDivss img{
-    width: 80%;
-    height: 80%;
+
     border-radius: 20%;
 
 
 
 
 }
+.projectDivss:hover{
+    background: linear-gradient(to bottom, #33ccff 0%, #d73fff 100%);
+}
 button{
+    text-decoration: none;
 
     background-color: #fa0707;
     box-shadow: 0 0 5px #fa0707, 0 0 20px #e70a0a;

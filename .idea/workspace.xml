@@ -2,39 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d31cc97-4832-42b1-ac9b-24ee5fecc655" name="Changes" comment="dsfg">
-      <change afterPath="$PROJECT_DIR$/project/css/basic/01-Case-Positions-Absolute-and-Relative/01-Case-Positions-Absolute-and-Relative.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/01-Case-Positions-Absolute-and-Relative/assets/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/01-Case-Positions-Absolute-and-Relative/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/02-Case-Absolute,Relative and-Box-Model/02-Case-Absolute,Relative and-Box-Model.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/02-Case-Absolute,Relative and-Box-Model/assets/img/giphy.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/02-Case-Absolute,Relative and-Box-Model/assets/img/ijse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/02-Case-Absolute,Relative and-Box-Model/assets/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/02-Case-Absolute,Relative and-Box-Model/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/03-Case-Fixed-positions/03-Case-Fixed-positions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/03-Case-Fixed-positions/assets/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/03-Case-Fixed-positions/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/04-Case-Sticky-positions/04-Case-Sticky-positions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/04-Case-Sticky-positions/assets/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/04-Case-Sticky-positions/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/05-Case-Grid-Layout/05-Case-Grid-Layout.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/05-Case-Grid-Layout/assets/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/05-Case-Grid-Layout/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/06-Case-Grid-Layout-Row-Column/06-Case-Grid-Layout-Row-Column.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/06-Case-Grid-Layout-Row-Column/assets/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/css/basic/06-Case-Grid-Layout-Row-Column/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/javaScript/calculator/Assingment 7 calculator/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/javaScript/calculator/Assingment 7 calculator/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/javaScript/calculator/Assingment 7 calculator/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/javaScript/calculator/Assingment 7 calculator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/javaScript/calculator/Assingment 7 calculator/Assingment 7 calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/javaScript/calculator/Assingment 7 calculator/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/javaScript/calculator/Assingment 7 calculator/assets/jQuary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/javaScript/calculator/Assingment 7 calculator/assets/js/cls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/javaScript/calculator/Assingment 7 calculator/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fristpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/fristpage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/projects.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexCss.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexCss.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectJavaSrcipt.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectJavaSrcipt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/projectPage.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/project/javaScript/calculator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chatApp" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
@@ -100,9 +72,13 @@
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/My profile with Css/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="projectJavaSrcipt.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/My profile with Css/projectJavaSrcipt.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.indexCss.html" />
+        <item itemvalue="JavaScript Debug.projectJavaSrcipt.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -172,6 +148,10 @@
       <workItem from="1686069754874" duration="2817000" />
       <workItem from="1686230465330" duration="233000" />
       <workItem from="1686368215060" duration="8015000" />
+      <workItem from="1686381010018" duration="702000" />
+      <workItem from="1686422501088" duration="78000" />
+      <workItem from="1686760395549" duration="2510000" />
+      <workItem from="1686806617442" duration="1333000" />
     </task>
     <task id="LOCAL-00001" summary="dsfg">
       <created>1683049908131</created>
