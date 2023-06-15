@@ -81,15 +81,23 @@ body>header{
 
 }
 #navigationOl{
+
     position: fixed;
 z-index: 1000;
-    list-style-type: none;
+    text-decoration: none;
     padding: 5px;
 
   margin: 0;
 
 }
+#navigationOl a{
+    text-shadow: #ba0ace;
+
+    color: #ea0303;
+
+}
 li{
+
     font-size: 1.2em;
 text-font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     display: inline;
@@ -102,7 +110,7 @@ text-font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 #navigation ol>li:hover{
 
-    background-color: #460ae1;
+    background-color: #0ae1c8;
     text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3), 0 0 0.45em currentColor;
     box-shadow: inset 0 0 0.5em 0 var(--clr-neon), 0 0 0.5em 0 var(--clr-neon);
     color: var(--clr-neon);

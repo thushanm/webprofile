@@ -172,7 +172,7 @@ height: 90vw;
 
 /* width */
 .educationDiv::-webkit-scrollbar {
-    width: 25px;
+    width: 10px;
 }
 
 /* Track */

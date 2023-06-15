@@ -71,7 +71,7 @@
     height: 50%;
 }
 #page-5 >section>section::-webkit-scrollbar {
-    width: 25px;
+    width: 10px;
 }
 
 /* Track */
