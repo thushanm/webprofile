@@ -52,7 +52,7 @@
 
     }
 
-@media all and (max-width:600px )and (min-width: 400px){
+@media all and (max-width:600px )and (min-width: 100px){
     .projectButton{
         width: 100px;
         height: 90px;
