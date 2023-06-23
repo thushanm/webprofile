@@ -6,7 +6,7 @@
 #btnOne{
     position: absolute;
     right: 0;
-    left: 80%;
+    left: 70%;
 }
 #btnTwo{
     position: absolute;
@@ -52,11 +52,11 @@ display: flex;
 
 }
 #projectH1 h1{
-    position: absolute;
-    left: 50%;
-
-
+display: flex;
+    justify-content: center;
+    align-items: center;
     margin: auto;
+
 }
 /*#flexProject div{*/
 

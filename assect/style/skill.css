@@ -18,8 +18,12 @@
 
     position: relative;
 }
-#skillH1{
-    padding-left:20%;
+#skillH1 h1{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+
     color: #f1caf3;
 }
 #skillDiv div {

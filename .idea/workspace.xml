@@ -3,7 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="1d31cc97-4832-42b1-ac9b-24ee5fecc655" name="Changes" comment="dsfg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assect/style/aboutMe.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/aboutMe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assect/style/education.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/education.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assect/style/fristpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/fristpage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assect/style/gallary.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/gallary.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assect/style/joinForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/joinForm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assect/style/projectPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/projectPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assect/style/projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/projects.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assect/style/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assect/style/skill.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/skill.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexCss.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexCss.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectJavaSrcipt.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectJavaSrcipt.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,6 +180,8 @@
       <workItem from="1686853004831" duration="1010000" />
       <workItem from="1687103499473" duration="8944000" />
       <workItem from="1687175254702" duration="12001000" />
+      <workItem from="1687266150362" duration="2081000" />
+      <workItem from="1687452559507" duration="14314000" />
     </task>
     <task id="LOCAL-00001" summary="dsfg">
       <created>1683049908131</created>

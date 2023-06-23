@@ -15,10 +15,9 @@
     position: relative;
 }
 #educationH1 h1{
-    position: absolute;
-    left: 50%;
-    bottom: 89%;
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin: auto;
 }
 *{
