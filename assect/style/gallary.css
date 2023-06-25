@@ -7,15 +7,15 @@
 }
 #gallary {
     position: absolute;
-    top:0;
+bottom: 5%;
     right: 0;
     left: 0;
-    right: 0;
+
     margin: auto;
     background-color: #070707;
 height: 80%;
     width: 50%;
-  display: inline;
+
     overflow-y: scroll;
 
 }
@@ -35,6 +35,11 @@ height: 80%;
     width: 180px;
     grid-template-columns: auto;
     grid-template-rows: auto;
+
+}
+#page-7 h1{
+    position: absolute;
+    right: 50%;
 
 }
 #gallary .gallaryDiv:hover {
