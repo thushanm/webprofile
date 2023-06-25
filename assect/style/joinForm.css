@@ -36,16 +36,20 @@ border-radius: 20%;
 
 }
 
-#page-6 #formDiv form input {
+#page-6 #formDiv form input,textarea {
 
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     flex-grow: 0;
-    color: #e70a0a;
+    width: 290px;
+    height: 33px;
+    color: #070707;
     bottom: 23%;
   right: 20%;
+    border-radius: 20px;
+    font-weight: bold;
 
 
 }

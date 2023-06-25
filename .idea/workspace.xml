@@ -2,31 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d31cc97-4832-42b1-ac9b-24ee5fecc655" name="Changes" comment="dsfg">
-      <change afterPath="$PROJECT_DIR$/project/javaScript/pos system/pos system ui.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/javaScript/que person/que-person-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/javaScript/Knift Ryder/knightRider/knightRider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/javaScript/Que Light/Project_02/Project_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/javaScript/pos system/IJSE-My-POS-System-master/assignment-06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/javaScript/que person/Project_01/Project_01.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsFile/Script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/GIF PROJECT VIDEOS/Car Animation.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/GIF PROJECT VIDEOS/Images Slider.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/GIF PROJECT VIDEOS/JS POS System.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/GIF PROJECT VIDEOS/Knight Rider.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/GIF PROJECT VIDEOS/Simple Calculator.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/GIF PROJECT VIDEOS/Water Drop Animation.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/GIF PROJECT VIDEOS/ezgif.com-video-to-gif (1).gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/GIF PROJECT VIDEOS/ezgif.com-video-to-gif (2).gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/GIF PROJECT VIDEOS/ezgif.com-video-to-gif.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/GIF PROJECT VIDEOS/pro02.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/GIF PROJECT VIDEOS/pro03.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/GIF PROJECT VIDEOS/pro04.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assect/style/aboutMe.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/aboutMe.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assect/style/fristpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/fristpage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/style/gallary.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/gallary.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/style/projectPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/projectPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assect/style/joinForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/joinForm.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assect/style/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/style/skill.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/skill.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/y2mate.com - Apologize Let Me Down Slowly  Sad songs playlist  Listen to depressing songs when I feel sad.mp3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jQuery v3.7.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/jQuery v3.7.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/javaScript/pos system/pos system ui.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/javaScript/que person/que-person-master.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projectJavaSrcipt.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectJavaSrcipt.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +65,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/project/IJSE-My-POS-System-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assect/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -88,17 +75,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\My Project\My profile with Css\project\javaScript\calculator" />
-      <recent name="D:\My Project\My profile with Css\assect" />
-      <recent name="D:\My Project\My profile with Css\project\css\basic" />
-      <recent name="D:\My Project\My profile with Css" />
+      <recent name="D:\My Project\My profile with Css\assect\img" />
+      <recent name="D:\My Project\My profile with Css\project\javaScript\Knift Ryder" />
+      <recent name="D:\My Project\My profile with Css\project\javaScript\Que Light" />
+      <recent name="D:\My Project\My profile with Css\project\javaScript\que person" />
+      <recent name="D:\My Project\My profile with Css\project\javaScript\pos system" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\My Project\My profile with Css\assect\img" />
       <recent name="D:\My Project\My profile with Css\lib" />
       <recent name="D:\My Project\My profile with Css\jsFile" />
       <recent name="D:\My Project\My profile with Css\project\javaScript\que person" />
       <recent name="D:\My Project\My profile with Css\project\javaScript\pos system" />
-      <recent name="D:\My Project\My profile with Css\assect\style" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -196,7 +184,7 @@
       <workItem from="1687266150362" duration="2081000" />
       <workItem from="1687452559507" duration="14314000" />
       <workItem from="1687633948402" duration="5347000" />
-      <workItem from="1687680340266" duration="1456000" />
+      <workItem from="1687680340266" duration="11717000" />
     </task>
     <task id="LOCAL-00001" summary="dsfg">
       <created>1683049908131</created>
