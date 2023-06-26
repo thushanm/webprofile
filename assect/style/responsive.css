@@ -5,6 +5,9 @@ padding-left: 30%;
     }
     article{width: 100%;}
     p{font-size: 2em}
+    #mainArticle1Container{
+        padding-left: 50%;
+    }
 
     #logo{width: 120%}
     #profilePhotoDiv img{width: 80%}
@@ -94,6 +97,16 @@ padding-left: 30%;
     .projectButton{
         width: 100px;
         height: 90px;
+    }
+    #mainArticle1{
+        font-size: 6em;
+    }
+    #mainArticle2{
+        left: 18%;
+        top: 17%;
+    }
+    #mainArticle1Container{
+        padding-left: 50%;
     }
     #page-4{
         height: 100vh;

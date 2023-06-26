@@ -2,12 +2,11 @@
 
 .page-loader {
     width: 100vw;
-    height: 200vh;
-    position: absolute;
+    height:100vh;
     background: #272727;
     z-index: 1000;
     position: fixed;
-    z-index: 1000;
+
 }
 .txt{
     color: #ab8aff;
