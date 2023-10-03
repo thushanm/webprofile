@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1d31cc97-4832-42b1-ac9b-24ee5fecc655" name="Changes" comment="dsfg">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assect/style/loadingpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/loadingpage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My profile with Css.iml" beforeDir="false" afterPath="$PROJECT_DIR$/My profile with Css.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assect/style/aboutMe.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/aboutMe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assect/style/education.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/education.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assect/style/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assect/style/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,26 +50,29 @@
       <path value="$PROJECT_DIR$/assect/php-8.2.7" />
     </include_path>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2Me4wTXcNGETrbbP1GIClrIt3Pi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/project/css/transtition" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/My Project/My profile with Css",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\My Project\My profile with Css\project\css\transtition" />
@@ -80,11 +89,14 @@
       <recent name="D:\My Project\My profile with Css\project\javaScript\pos system" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html.html">
     <configuration name="indexCss.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/My profile with Css/indexCss.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/My profile with Css/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/My profile with Css/index.html.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="projectJavaSrcipt.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/My profile with Css/projectJavaSrcipt.html" useBuiltInWebServerPort="true">
@@ -92,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.indexCss.html" />
         <item itemvalue="JavaScript Debug.projectJavaSrcipt.html" />
@@ -176,7 +189,13 @@
       <workItem from="1687452559507" duration="14314000" />
       <workItem from="1687633948402" duration="5347000" />
       <workItem from="1687680340266" duration="13092000" />
-      <workItem from="1687765119397" duration="5064000" />
+      <workItem from="1687765119397" duration="7084000" />
+      <workItem from="1688063338475" duration="76000" />
+      <workItem from="1688834494566" duration="595000" />
+      <workItem from="1688835323472" duration="592000" />
+      <workItem from="1688966398182" duration="594000" />
+      <workItem from="1692735501588" duration="107000" />
+      <workItem from="1696344681690" duration="9283000" />
     </task>
     <task id="LOCAL-00001" summary="dsfg">
       <created>1683049908131</created>

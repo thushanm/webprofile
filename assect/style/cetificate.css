@@ -1,0 +1,59 @@
+#certificate {
+    box-shadow: 0 0 5px #460ae1, 0 0 20px #f3f3f3;
+    display: flex;
+    flex-direction: column;
+    background-color: #0a0a0a;
+    width: 100vw;
+    height: 100vh;
+
+
+    position: relative;
+}
+
+#certificate h1{
+    position: absolute;
+    right: 50%;
+
+
+
+}
+.certificateMain{
+  position: relative;
+    margin: auto;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #0a0a0a;
+    width: 90vw;
+    height: 70vh;
+
+
+}
+
+.certificateDiv{
+
+    align-self: center;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 20%;
+    overflow-x: scroll;
+    height: 80%;
+    width: 80%;
+}
+
+.certificateMain div{
+
+    display: flex;
+    border-radius: 20px;
+    background-color: #f0f3ec;
+    border: solid black 5px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.certificateMain>div img{
+
+    width: 100%;
+ }
